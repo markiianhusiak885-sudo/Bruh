@@ -1,0 +1,130 @@
+{
+  "pociag": "Luxtorpeda K5P (nr 39145)",
+  "przewoznik": "Koleje Małopolskie",
+  "relacja": "Kraków Główny – Zakopane",
+  "odjazd_z_krakowa_glownego": "06:20",
+  "kursuje": "soboty, niedziele i święta (oznaczenie (C))",
+  "wazny_od": "2026-08-30",
+  "wazny_do": "2026-10-24",
+  "strona_zrodlowa": "https://kolejemalopolskie.com.pl/pl/rozklad-jazdy/rozklady-kolejowe/krakow-glowny-zakopane",
+  "pobrano": "2026-10-09",
+  "stacje": [
+    {
+      "nazwa": "Kraków Grzegórzki",
+      "minuty": 2,
+      "godzina_na_stacji": "06:22",
+      "w_krakowie": true,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Kraków Zabłocie",
+      "minuty": 4,
+      "godzina_na_stacji": "06:24",
+      "w_krakowie": true,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Kraków Podgórze",
+      "minuty": 6,
+      "godzina_na_stacji": "06:26",
+      "w_krakowie": true,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Kraków Łagiewniki",
+      "minuty": 10,
+      "godzina_na_stacji": "06:30",
+      "w_krakowie": true,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Skawina",
+      "minuty": 20,
+      "godzina_na_stacji": "06:40",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Kalwaria Zebrzydowska Lanckorona",
+      "minuty": 37,
+      "godzina_na_stacji": "06:57",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Sucha Beskidzka Zamek",
+      "minuty": 65,
+      "godzina_na_stacji": "07:25",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Maków Podhalański",
+      "minuty": 79,
+      "godzina_na_stacji": "07:39",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Chabówka Stadion",
+      "minuty": 112,
+      "godzina_na_stacji": "08:12",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Nowy Targ",
+      "minuty": 142,
+      "godzina_na_stacji": "08:42",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Bańska Niżna",
+      "minuty": 148,
+      "godzina_na_stacji": "08:48",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Poronin",
+      "minuty": 153,
+      "godzina_na_stacji": "08:53",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    },
+    {
+      "nazwa": "Zakopane",
+      "minuty": 159,
+      "godzina_na_stacji": "08:59",
+      "w_krakowie": false,
+      "zweryfikowane": true,
+      "zrodlo": "https://kolejemalopolskie.com.pl/brepo/panel_repo/2026/08/20/3j6ztq/k5-zrj-30-viii-24-x-26.pdf",
+      "uwaga": "Godzina z tabeli rozkładu K5 (kolumna pociągu 39145, odjazd z stacji). Rozkład nie podaje osobno przyjazdu na stacje pośrednie (brak wydłużonych postojów), więc czas = różnica odjazdów."
+    }
+  ]
+}

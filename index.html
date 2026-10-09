@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PKP mieszkanie</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>PKP mieszkanie</h1>
+  <p class="sub">Czas jazdy Luxtorpedą z Krakowa Głównego</p>
+</header>
+<main>
+  <div class="filtry" id="filtry" role="group" aria-label="Filtr czasu jazdy">
+    <button data-max="10">do 10 min</button>
+    <button data-max="20">do 20 min</button>
+    <button data-max="30">do 30 min</button>
+    <button data-max="all" class="aktywny">wszystkie</button>
+  </div>
+  <div id="info" class="info"></div>
+  <ul id="lista" class="lista"></ul>
+  <p id="brak" class="brak" hidden>Brak stacji w tym przedziale.</p>
+</main>
+<footer id="stopka"></footer>
+<script src="app.js"></script>
+</body>
+</html>
